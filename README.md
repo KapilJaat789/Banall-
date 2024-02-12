@@ -17,8 +17,11 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/MrRiZoeL/BanallBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PATAALhu/gckimaachodnewalabot)
 
 # Credits
-* [RiZoeL](https://github.com/MrRizoel)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [🇻ιρ 🇩𝚒𝚝𝚝σ](https://github.com/PATAALhu)
+
+<p align="center"> Μɛɛт Μɛ Ħɛяɛ </p>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Ditto_999)
+
