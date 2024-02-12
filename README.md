@@ -1,4 +1,10 @@
-# Ban All Bot
+
+<p align="center">🇻ιρ 🇩𝚒𝚝𝚝σ🇧αиαℓℓ✨ </p>
+
+
+<p align="center"><a href="https://t.me/PATAAL_NAGRI"><img src="https://telegra.ph/file/ef5de4127db233723a482.jpg" width="300"></a></p>
+<p align="center">
+    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
 - This is a Sudo Based Members Banning Bot 
  
