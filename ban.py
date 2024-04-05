@@ -63,7 +63,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"**I'm On** \n\n __𝗚𝗖 𝗞𝗔 𝗢𝗪𝗡𝗘𝗥 𝗗𝗜𝗧𝗧𝗢 𝗞𝗘 𝗟𝗢𝗗𝗘 𝗣𝗘 😋__ !! `{ms}` ms")
+        await event.edit(f"**I'm On** \n\n The most powerful Copyright Remover Bot is ready for protection !! `{ms}` ms")
 
 
 @Riz.on(events.NewMessage(pattern="^/kickall"))
