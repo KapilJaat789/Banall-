@@ -1,8 +1,8 @@
 
-<p align="center">🇻ιρ 🇩𝚒𝚝𝚝σ🇧αиαℓℓ✨ </p>
+<p align="center">REAPER BANALL BOT 💀 </p>
 
 
-<p align="center"><a href="https://t.me/PATAAL_NAGRI"><img src="https://telegra.ph/file/ef5de4127db233723a482.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Reaper_Support"><img src="https://telegra.ph/file/60abdd0dac472c43a2e0b.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -20,9 +20,9 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PATAALhu/gckimaachodnewalabot)
 
 # Credits
-* [🇻ιρ 🇩𝚒𝚝𝚝σ](https://github.com/PATAALhu)
+* [𝐑𝖊𝖆𝖕𝖊𝖗ㅤᯤ⁹⁹⁹⁺](https://github.com/CenzoGod/Banall-)
 
 <p align="center"> Μɛɛт Μɛ Ħɛяɛ </p>
 
-[Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Ditto_999)
+[Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Reaperx5)
 
