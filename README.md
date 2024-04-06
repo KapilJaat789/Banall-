@@ -1,5 +1,5 @@
 
-<p align="center">REAPER BANALL BOT 💀 </p>
+<p align="center">🇷 🇪 🇦 🇵 🇪 🇷  🇧 🇦 🇳 🇦 🇱 🇱  🇧 🇴 🇹 </p>
 
 
 <p align="center"><a href="https://t.me/Reaper_Support"><img src="https://telegra.ph/file/60abdd0dac472c43a2e0b.jpg" width="300"></a></p>
