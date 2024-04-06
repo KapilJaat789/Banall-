@@ -17,7 +17,7 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PATAALhu/gckimaachodnewalabot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CenzoGod/Banall-)
 
 # Credits
 * [𝐑𝖊𝖆𝖕𝖊𝖗ㅤᯤ⁹⁹⁹⁺](https://github.com/CenzoGod/Banall-)
