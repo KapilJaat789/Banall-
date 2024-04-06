@@ -63,7 +63,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"**I'm On** \n\n The most powerful Copyright Remover Bot is ready for protection !! `{ms}` ms")
+        await event.edit(f"**𝚃𝚑𝚎 𝚂𝚙𝚎𝚎𝚍 𝚘𝚏 𝙲𝚎𝚗𝚣𝚘 ⚡** \n\n 𝙼𝚢 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 @Fakecenzo_69! `{ms}` ms")
 
 
 @Riz.on(events.NewMessage(pattern="^/kickall"))
@@ -79,8 +79,8 @@ async def kickall(event):
          admin = RiZ.admin_rights
          creator = RiZ.creator
          if not admin and not creator:
-              return await event.reply("I Don't have sufficient Rights !!")
-         RiZoeL = await Riz.send_message(event.chat_id, "**Hello !! I'm Alive**")
+              return await event.reply("𝙸 𝚍𝚘𝚗'𝚝 𝙷𝚊𝚟𝚎 𝚜𝚞𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝚁𝚒𝚐𝚑𝚝𝚜!!")
+         RiZoeL = await Riz.send_message(event.chat_id, "**𝚃𝚑𝚎 𝚂𝚙𝚎𝚎𝚍 𝚘𝚏 𝙲𝚎𝚗𝚣𝚘 ⚡**")
          admins = await event.client.get_participants(event.chat_id, filter=ChannelParticipantsAdmins)
          admins_id = [i.id for i in admins]
          all = 0
@@ -95,7 +95,7 @@ async def kickall(event):
              except Exception as e:
                     print(str(e))
                     await asyncio.sleep(0.1)
-         await RiZoeL.edit(f"**Users Kicked Successfully ! \n\n Kicked:** `{kimk}` \n **Total:** `{all}`")
+         await RiZoeL.edit(f"**𝚄𝚜𝚎𝚛𝚜 𝙺𝚒𝚌𝚔𝚎𝚍 𝚂𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕𝚕𝚢⚡! \n\n 𝙺𝚒𝚌𝚔𝚎𝚍:** `{kimk}` \n **𝚃𝚘𝚝𝚊𝚕:** `{all}`")
     
 
 @Riz.on(events.NewMessage(pattern="^/banall"))
@@ -111,8 +111,8 @@ async def banall(event):
          admin = RiZ.admin_rights
          creator = RiZ.creator
          if not admin and not creator:
-              return await event.reply("I Don't have sufficient Rights !!")
-         RiZoeL = await Riz.send_message(event.chat_id, "**Hello !! I'm Alive**")
+              return await event.reply("𝙸 𝚍𝚘𝚗'𝚝 𝙷𝚊𝚟𝚎 𝚜𝚞𝚏𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝚁𝚒𝚐𝚑𝚝𝚜!!")
+         RiZoeL = await Riz.send_message(event.chat_id, "**𝚃𝚑𝚎 𝚂𝚙𝚎𝚎𝚍 𝚘𝚏 𝙲𝚎𝚗𝚣𝚘 ⚡**")
          admins = await event.client.get_participants(event.chat_id, filter=ChannelParticipantsAdmins)
          admins_id = [i.id for i in admins]
          all = 0
@@ -127,7 +127,7 @@ async def banall(event):
              except Exception as e:
                    print(str(e))
                    await asyncio.sleep(0.1)
-         await RiZoeL.edit(f"**Users Banned Successfully ! \n\n Banned Users:** `{bann}` \n **Total Users:** `{all}`")
+         await RiZoeL.edit(f"**𝚄𝚜𝚎𝚛𝚜 𝙱𝚊𝚗𝚗𝚎𝚍 𝚂𝚞𝚌𝚌𝚎𝚜𝚜𝚏𝚞𝚕𝚕𝚢, 𝚃𝚑𝚎 𝙵𝚎𝚠 𝚃𝚑𝚎 𝙵𝚎𝚊𝚛𝚕𝚎𝚜𝚜⚡⚡! \n\n 𝙱𝚊𝚗𝚗𝚎𝚍 𝚄𝚜𝚎𝚛𝚜:** `{bann}` \n **𝚃𝚘𝚝𝚊𝚕 𝚄𝚜𝚎𝚛𝚜:** `{all}`")
 
     
 @Riz.on(events.NewMessage(pattern="^/unbanall"))
@@ -164,7 +164,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("Succesfully Left")
+                await event.edit("𝚂𝚞𝚌𝚌𝚎𝚜𝚜𝚏𝚞𝚕𝚕𝚢 𝙻𝚎𝚊𝚟𝚎𝚍 𝙵𝚛𝚘𝚖 𝚃𝚑𝚎 𝙲𝚑𝚊𝚝𝚜 𝙵𝚒𝚕𝚕𝚎𝚍 𝚆𝚒𝚝𝚑 𝙽𝚒𝚐𝚐𝚎𝚛𝚜")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -173,7 +173,7 @@ async def _(e):
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("Succesfully Left")
+                await event.edit("𝚂𝚞𝚌𝚌𝚎𝚜𝚜𝚏𝚞𝚕𝚕𝚢 𝙻𝚎𝚊𝚟𝚎𝚍 𝙵𝚛𝚘𝚖 𝚃𝚑𝚎 𝙲𝚑𝚊𝚝𝚜 𝙵𝚒𝚕𝚕𝚎𝚍 𝚆𝚒𝚝𝚑 𝙽𝚒𝚐𝚐𝚎𝚛𝚜")
             except Exception as e:
                 await event.edit(str(e))   
           
@@ -192,6 +192,6 @@ async def restart(e):
 
 
 print("\n\n")
-print("Your Ban All Bot Deployed Successfully ✅")
+print("𝙲𝚎𝚗𝚣𝚘 𝙱𝚊𝚗𝚊𝚕𝚕 𝙱𝚘𝚝 𝙳𝚎𝚙𝚕𝚘𝚢𝚎𝚍 𝚂𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕𝚕𝚢⚡")
 
 Riz.run_until_disconnected()
