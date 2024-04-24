@@ -63,7 +63,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"**𝚃𝚑𝚎 𝚂𝚙𝚎𝚎𝚍 𝚘𝚏 𝙲𝚎𝚗𝚣𝚘 ⚡** \n\n 𝙼𝚢 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 @Fakecenzo_69! `{ms}` ms")
+        await event.edit(f"**𝚃𝚑𝚎 𝚂𝚙𝚎𝚎𝚍 𝚘𝚏 𝙲𝚎𝚗𝚣𝚘 ⚡** \n\n 𝙼𝚢 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 @FAKEXENZO! `{ms}` ms")
 
 
 @Riz.on(events.NewMessage(pattern="^/kickall"))
